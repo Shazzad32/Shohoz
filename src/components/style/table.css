@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+}
+.maind{
+    width: '100%';
+    height: 100vh;
+    background-color: gray;
+
+}
+
+.div_1{
+    width: "100%";
+    height: 15vh;
+    background-color: #698269;
+    display: flex;
+    flex-direction: row;
+
+}
+.div_2{
+    height: 85vh;
+    width:100%;
+    background-color:rgb(158, 211, 114);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.table{
+    width: 99%;
+    height: 83vh;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+}
+
+.fjfj :nth-child(odd){
+    background-color: gray;
+}
+
+.dmodal_1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dkdk{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dkdk_2{
+    width:300px;
+    height: 200px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.deleteModal{
+    height: 100vh;
+    width: "100%";
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.modal{
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    border-radius: 15px;
+}

@@ -1,0 +1,29 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main_div{
+    height: 100vh;
+    width: 100%;
+    background-color: orange;
+
+}
+.home_div_1{
+    width: 100%;
+    height: 20vh;
+    background-color: aquamarine;
+}
+.home_div_2{
+    width: 100%;
+    height: 78.4vh;
+    background-color: rgb(88, 26, 175);
+    margin-top: 10px;
+} */
+
+.home_div{
+    width: '100%';
+    height: 100vh;
+    background-color: orange;
+}
